@@ -2,7 +2,7 @@
 
 A full-stack, fast-deployable CRM prototype built with **React**, **TypeScript**, **FastAPI**, and **PostgreSQL**, designed to streamline contact management workflows like Apollo and Smartlead. Built for speed, scale, and SaaS realism.
 
-![contact-book-demo](Screenshot 2025-06-14 at 7.17.54 PM.png) <!-- Replace with real GIF or screenshot -->
+![contact-book-demo](demo.png) <!-- Replace with real GIF or screenshot -->
 
 ## 🚀 Features
 
